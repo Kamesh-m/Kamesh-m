@@ -13,39 +13,26 @@
 - 💡 Open to **Flutter Developer / Backend Developer** opportunities  
 
 ---
+## 🛠️ Skills  
 
-## 🛠️ Skills & Tools  
+### 🚀 Mobile Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 
-**Languages & Frameworks**  
-- Flutter, Dart  
-- Java, JavaScript, HTML, CSS  
-- Angular (basic), SQL  
+### ⚙️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
 
-**Backend & Database**  
-- Node.js (learning)  
-- Firebase, SQLite  
+### 💻 Programming Languages  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-**Other Skills**  
-- WordPress Development  
-- Project Planning & Problem Solving  
-- Teamwork & Communication  
-
----
-
-## 📂 Featured Projects  
-- ✅ [To-Do List App](#) – Simple productivity app with CRUD features  
-- 🌦️ [Weather App](#) – Real-time weather updates using API  
-- 🏏 [Live Cricket Scoring App](#) – Tracks scores, players, and match stats  
-- 🧾 [Billing App](#) – Dynamic billing system with local & Firebase storage  
-
----
-
-## 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github)](https://github.com/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
-
----
-
-⭐️ From [Kamesh](https://github.com/yourusername)  
+### 🔧 Other Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
