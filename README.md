@@ -15,8 +15,7 @@
 ---
 
 ## 🛠️ Skills  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-5A2D81?style=for-the-badge&logo=flutter&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-0F9D58?style=for-the-badge&logo=flutter&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-5A2D81?style=for-the-badge&logo=flutter&logoColor=white) 
 
 ### 🔧 State Management (Flutter)  
 ![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-5A2D81?style=for-the-badge&logo=flutter&logoColor=white)    
@@ -26,12 +25,13 @@
 
 ## 📞 Contact  
 
-📫 **Email:** m.kamesh0504@gmail.com
-🔗 **LinkedIn:** Kamesh M  
-📱 **Instagram:** i_am_kameshk
+📫 **Email:** m.kamesh0504@gmail.com <br>  
+🔗 **LinkedIn:** Kamesh M <br>  
+📱 **Instagram:** i_am_kameshk <br>  
 🌐 **Portfolio:** (Soon it will be available)  
 
 ---
+
 
 
 
