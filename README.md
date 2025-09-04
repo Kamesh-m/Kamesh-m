@@ -22,6 +22,12 @@
 ![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-5A2D81?style=for-the-badge&logo=flutter&logoColor=white)    
 ---
 
+Contact
+📫 Email: m.kamesh0504@gmail.com
+🔗 LinkedIn: Kamesh M
+📱 Instagram: i_am_kameshk
+🌐 Portfolio: (Soon it will be available)
+
 ## 📊 GitHub Stats  
 ![Kamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamesh-m&show_icons=true&theme=radical)  
 
