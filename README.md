@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 - 🎓 B.Sc Computer Technology Graduate  
-- 🧑‍💻 Hands-on experience with Flutter (To-do app, Weather app, Cricket scoring app, Billing app)  
+- 🧑‍💻 Hands-on experience with Flutter (To-do app, Weather app, Cricket scoring app, Billing app, E-commerce App)  
 - 🌱 Currently learning **Node.js & Backend Development**  
 - 💼 Completed internship at **Madhuri (WordPress)**  
 - 💡 Open to **Flutter Developer / Backend Developer** opportunities  
