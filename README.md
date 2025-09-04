@@ -21,6 +21,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### 🔧 State Management (Flutter)  
+![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=flutter&logoColor=white)  
+![GetX](https://img.shields.io/badge/GetX-5A2D81?style=for-the-badge&logo=flutter&logoColor=white)    
 ---
 
 ## 📊 GitHub Stats  
@@ -36,6 +41,7 @@
 - 🌦️ [Weather App](#) – Real-time weather updates using API  
 - 🏏 [Live Cricket Scoring App](#) – Tracks scores, players, and match stats  
 - 🧾 [Billing App](#) – Dynamic billing system with local & Firebase storage  
+- 🛒 [E-commerce App](#) – Shopping app with product listings, cart, and checkout flow  
 
 ---
 ⭐️ From [Kamesh](https://github.com/Kamesh-m)
